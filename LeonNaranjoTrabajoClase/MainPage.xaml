@@ -9,34 +9,34 @@
     <Frame BorderColor="Black"
                Padding="5">
         <StackLayout Orientation="Horizontal"
-                         Spacing="15">
+                         Spacing="20">
             <BoxView Color="Red"
                          WidthRequest="40" />
             <Label Text="Rojo"
                        FontSize="18"
-                       VerticalOptions="Center" />
+                       VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </Frame>
     <Frame BorderColor="Black"
                Padding="5">
         <StackLayout Orientation="Horizontal"
-                         Spacing="15">
+                         Spacing="20">
             <BoxView Color="Yellow"
                          WidthRequest="40" />
             <Label Text="Amarillo"
                        FontSize="18"
-                       VerticalOptions="Center" />
+                       VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </Frame>
     <Frame BorderColor="Black"
                Padding="5">
         <StackLayout Orientation="Horizontal"
-                         Spacing="15">
+                         Spacing="20">
             <BoxView Color="Blue"
                          WidthRequest="40" />
             <Label Text="Azul"
                        FontSize="18"
-                       VerticalOptions="Center" />
+                       VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </Frame>
     <Label Text="Colores Secundarios"/>
@@ -48,7 +48,7 @@
                          WidthRequest="40" />
                 <Label Text="Verde"
                        FontSize="18"
-                       VerticalOptions="Center" />
+                       VerticalOptions="CenterAndExpand" />
             </StackLayout>
         </Frame>
         <Frame BorderColor="Black"
@@ -59,7 +59,7 @@
                          WidthRequest="40" />
                 <Label Text="Naranja"
                        FontSize="18"
-                       VerticalOptions="Center" />
+                       VerticalOptions="CenterAndExpand" />
             </StackLayout>
         </Frame>
     <Frame BorderColor="Black"
