@@ -39,7 +39,7 @@
                        VerticalOptions="Center" />
         </StackLayout>
     </Frame>
-    <Label Text="Colores Primarios"/>
+    <Label Text="Colores Secundarios"/>
     <Frame BorderColor="Black"
                Padding="5">
             <StackLayout Orientation="Horizontal"
